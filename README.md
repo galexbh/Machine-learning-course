@@ -14,7 +14,7 @@ Solo lee las instrucciones para las otras opciones si por alguna razon en partic
 
 ## Google Colab
 
-Google Colab es muy similar en su uso a Google Docs. Puedes ir directamente a su pagina https://colab.research.google.com/ o abrir Google Drive, clickear en el botón “+ Nuevo” y desde ahí elegir la opción “Mas” y clickear en Colaboratory (como se ve en la imagen)
+Google Colab es muy similar en su uso a Google Docs. Puedes ir directamente a su pagina https://colab.research.google.com/ o abrir Google Drive, clickear en el botón “+ Nuevo” y desde ahí elegir la opción “Mas” y clickear en Colaboratory 
 
 Con esto tendrás un notebook de Google Colab a tu disposición!
 

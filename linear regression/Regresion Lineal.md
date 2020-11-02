@@ -20,7 +20,7 @@ Lo mas recomendable antes de iniciar es tomar los cursos de estadística, algebr
 
 ### Clase 2 Regresión Lineal y Machine Learning
 
-![ML](/home/vanhelsingx3/Documentos/GitHub/Machine-learning-course/linear regression/img/ML.jpg)
+![ML](./img/ML.jpg)
 
 Proceso ML supervisado
 
@@ -43,7 +43,7 @@ Uso de Clasificación:
 - Diagnósticos
 - Clasificación de imágenes
 
-![clasificacion vs lineal](/home/vanhelsingx3/Documentos/GitHub/Machine-learning-course/linear regression/img/clasificacion vs lineal.jpg)
+![clasificacion vs lineal](./img/clasificacion vs lineal.jpg)
 
 ### Clase 3 Explicacion Matematica de la Regresion Lineal
 
@@ -62,11 +62,11 @@ $X$ = Variable independiente
 
 **Ejemplo 1 Pendiente Positiva**.
 
-![pendiente positiva](/home/vanhelsingx3/Documentos/GitHub/Machine-learning-course/linear regression/img/pendiente positiva.jpg)
+![pendiente positiva](./img/pendiente positiva.jpg)
 
 **Ejemplo 2 Pendiente Negativa**.
 
-![pendiente negativa](/home/vanhelsingx3/Documentos/GitHub/Machine-learning-course/linear regression/img/pendiente negativa.jpg)
+![pendiente negativa](./img/pendiente negativa.jpg)
 
 ## Modulo 3 Entendiendo el algoritmo de regresión lineal
 
@@ -74,11 +74,13 @@ $X$ = Variable independiente
 
 A partir de la siguiente tribulación graficamos los puntos en la tabla. Aplicaremos la formula de minimos cuadrados para cada uno de los componentes de $b_1$
 
-<img src="/home/vanhelsingx3/Documentos/GitHub/Machine-learning-course/linear regression/img/ puntos en la tabla.jpg" alt=" puntos en la tabla"  />
+<img src="./img/ puntos en la tabla.jpg" alt=" puntos en la tabla" style="zoom: 60%;" />
+
+
 
 Solución.
 
-![solucion](/home/vanhelsingx3/Documentos/GitHub/Machine-learning-course/linear regression/img/solucion.jpg)
+![solucion](./img/solucion.jpg)
 
 El método de mínimos de cuadrados es una función que busca minimizar los residuos en las observaciones.
 Por ejemplo, si tengo una serie de mediciones de distancia que corresponden a un mismo elemento, (Es preciso indicar que toda observación presenta un residuo o también llamado error). Podría determinar el valor mas probable con el método de mínimos cuadrados, y la función mejora si es que se le agrega pesos a las observaciones.
@@ -87,20 +89,20 @@ Por ejemplo, si tengo una serie de mediciones de distancia que corresponden a un
 
 Dados los datos de la tabla calculamos entonces $b_1$
 
-![despeje](/home/vanhelsingx3/Documentos/GitHub/Machine-learning-course/linear regression/img/despeje.jpg)
+![despeje](./img/despeje.jpg)
 
 Usando los valores promedio $\bar{x}$ y $\bar{y}$ graficandolos en un plano.
 
  $\bar{y} = 4.2$  nos permite calcular la constante de proporcionalidad $b0$ de la siguiente manera.
 
-![proporcionalidad](/home/vanhelsingx3/Documentos/GitHub/Machine-learning-course/linear regression/img/proporcionalidad.jpg)
+![proporcionalidad](./img/proporcionalidad.jpg)
 
 ### Clase 6 Generando Predicciones en Papel
 
 A partir e la ecuacion $Y = b_0 + b_1X$ calcularemos valores fuera del set de datos original, calculamos los valores para $x = 6$
 
-![calculamos los valores](/home/vanhelsingx3/Documentos/GitHub/Machine-learning-course/linear regression/img/calculamos los valores.jpg)
+![calculamos los valores](./img/calculamos los valores.jpg)
 
 Calculamos, y graficamos el punto para obtener la linea de regresion.
 
-![graficamos](/home/vanhelsingx3/Documentos/GitHub/Machine-learning-course/linear regression/img/graficamos.jpg)
+![graficamos](./img/graficamos.jpg)
